@@ -5,14 +5,14 @@ export default function App() {
     <div className="min-h-screen w-full flex items-center justify-center bg-gradient-to-br from-pink-200 via-rose-200 to-red-300 p-4">
       <div className="w-full max-w-5xl min-h-[80vh] bg-white shadow-2xl rounded-3xl p-8 md:p-16 flex flex-col justify-center">
         <h1 className="text-2xl md:text-6xl font-bold text-center text-rose-600 mb-8">
-          Happy Valentine’s Day ❤️
+          Happy Valentine’s Day 🐸
         </h1>
 
         <div className="text-gray-700 text-lg md:text-2xl leading-relaxed space-y-6 text-center">
           <p>
             I want to start by saying I am truly sorry for all the mistakes I have made.
             For the times I hurt you, disappointed you, or failed to understand you
-            the way you deserved — I take full responsibility. You never deserved
+            the way you deserved which I take full responsibility. You never deserved
             anything less than my best.
           </p>
 
